@@ -1,4 +1,4 @@
-package com.company;
+package com.company.LaptopsWork;
 public class Main {
     public static void main(String[] args) {
         Laptop dellinspiron = new Laptop();
