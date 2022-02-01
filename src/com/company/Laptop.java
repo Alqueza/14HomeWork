@@ -12,10 +12,10 @@ public class Laptop {
 
     }
     public void open() {
-        System.out.println("Ваш ноутбук "+name+" включен.");
+        System.out.println("Ноутбук "+name+" включен.");
     }
     public void close() {
-        System.out.println("Ваш ноутбук "+name+" выключен.");
+        System.out.println("Ноутбук "+name+" выключен.");
     }
     public void lagaet(){
         System.out.println(name+" Завис и не загружает ничего.");
