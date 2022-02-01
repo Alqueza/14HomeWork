@@ -1,4 +1,4 @@
-package com.company.LaptopsWork;
+package com.company;
 
 public class Laptop {
     String name;
