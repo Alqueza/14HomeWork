@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f6e6f0e6-223c-4c51-b8d8-64490868e282" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/Treugolnik.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Curs.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/Laptop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Laptop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/PeakSoft.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/PeakSoft.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Treugolnik.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Treugolnik.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +84,9 @@
       <workItem from="1643723862249" duration="1593000" />
       <workItem from="1643783734187" duration="5343000" />
       <workItem from="1643790453155" duration="2439000" />
-      <workItem from="1643799877255" duration="316000" />
+      <workItem from="1643799877255" duration="3424000" />
+      <workItem from="1643804928825" duration="6000" />
+      <workItem from="1643805203646" duration="4459000" />
     </task>
     <task id="LOCAL-00001" summary="Laptop">
       <created>1643722968187</created>
@@ -115,7 +116,14 @@
       <option name="project" value="LOCAL" />
       <updated>1643725362795</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="new 12 home Work">
+      <created>1643800212274</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1643800212274</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -124,6 +132,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Laptop" />
     <MESSAGE value="All practical works" />
-    <option name="LAST_COMMIT_MESSAGE" value="All practical works" />
+    <MESSAGE value="new 12 home Work" />
+    <option name="LAST_COMMIT_MESSAGE" value="new 12 home Work" />
   </component>
 </project>

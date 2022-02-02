@@ -1,23 +1,50 @@
-//package com.company;
-//
+package com.company;
+
 //public class Laptop {
-//    String name;
-//    String memory;
-//    String weight;
-//    String processor;
-//    String color;
+//    public String getName() {
+//        return name;
+//    }
 //
-//    public void model() {
-//        System.out.println("Ваш ноутбук "+name+" Его вес "+weight+" Цвет "+color+" Память "+memory+" Его процессор "+processor);
+//    public void setName(String name) {
+//        this.name = name;
+//    }
 //
+//    public String getMemory() {
+//        return memory;
 //    }
-//    public void open() {
-//        System.out.println("Ноутбук "+name+" включен.");
+//
+//    public void setMemory(String memory) {
+//        this.memory = memory;
 //    }
-//    public void close() {
-//        System.out.println("Ноутбук "+name+" выключен.");
+//
+//    public String getWeight() {
+//        return weight;
 //    }
-//    public void lagaet(){
-//        System.out.println(name+" Завис и не загружает ничего.");
+//
+//    public void setWeight(String weight) {
+//        this.weight = weight;
 //    }
+//
+//    public String getProcessor() {
+//        return processor;
+//    }
+//
+//    public void setProcessor(String processor) {
+//        this.processor = processor;
+//    }
+//
+//    public String getColor() {
+//        return color;
+//    }
+//
+//    public void setColor(String color) {
+//        this.color = color;
+//    }
+//    //private сделать его приватным
+//    private String name;
+//    private String memory;
+//    private String weight;
+//    private String processor;
+//    private String color;
+//    //выделить все приваты и alt+insert getter and setter автоматом выполнит
 //}
