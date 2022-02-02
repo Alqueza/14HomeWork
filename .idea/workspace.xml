@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f6e6f0e6-223c-4c51-b8d8-64490868e282" name="Changes" comment="All practical works">
-      <change afterPath="$PROJECT_DIR$/src/com/company/PeakSoft.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Person.java" afterDir="false" />
+    <list default="true" id="f6e6f0e6-223c-4c51-b8d8-64490868e282" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/company/Treugolnik.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Laptop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Laptop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/PeakSoft.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/PeakSoft.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Person.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,7 +22,21 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -65,7 +82,10 @@
       <option name="presentableId" value="Default" />
       <updated>1643722403326</updated>
       <workItem from="1643722414299" duration="1407000" />
-      <workItem from="1643723862249" duration="1366000" />
+      <workItem from="1643723862249" duration="1593000" />
+      <workItem from="1643783734187" duration="5343000" />
+      <workItem from="1643790453155" duration="2439000" />
+      <workItem from="1643799877255" duration="316000" />
     </task>
     <task id="LOCAL-00001" summary="Laptop">
       <created>1643722968187</created>
@@ -74,7 +94,28 @@
       <option name="project" value="LOCAL" />
       <updated>1643722968187</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="All practical works">
+      <created>1643725243860</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1643725243860</updated>
+    </task>
+    <task id="LOCAL-00003" summary="All practical works">
+      <created>1643725286759</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1643725286759</updated>
+    </task>
+    <task id="LOCAL-00004" summary="All practical works">
+      <created>1643725362795</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1643725362795</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
