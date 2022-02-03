@@ -13,12 +13,18 @@ public class Main {
 
         Cat murka = new Cat();
         murka.setName("Murka");
-        System.out.println(murka.getName());
+        murka.setPol("M");
+        System.out.println("Имя: "+murka.getName());
+        System.out.println("Пол: "+murka.getPol());
         murka.cats();
 
         Dog ackjol = new Dog();
-        ackjol.setName("ackjol");
-        System.out.println(ackjol.getName());
+        ackjol.setName("Акжол");
+        ackjol.setColor("Ак тустуу");
+        ackjol.setPol("M");
+        System.out.println("Аты: "+ackjol.getName());
+        System.out.println("Тусу: "+ackjol.getColor());
+        System.out.println("Пол: "+ackjol.getPol());
         ackjol.dogs();
     }
     }

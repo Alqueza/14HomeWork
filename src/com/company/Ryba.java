@@ -11,6 +11,6 @@ public class Ryba {
 
     private String name;
      public void ryby(){
-         System.out.println("Балык "+name);
+         System.out.println("Балык "+name+" сууда сузуп жатат.");
      }
 }

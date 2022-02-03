@@ -11,6 +11,16 @@ public class Cat {
 
     private String name;
 
+    public String getPol() {
+        return pol;
+    }
+
+    public void setPol(String pol) {
+        this.pol = pol;
+    }
+
+    private String pol;
+
     public void cats(){
         System.out.println(name+" чычканды кубалай баштады!");
     }
