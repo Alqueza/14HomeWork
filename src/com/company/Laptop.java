@@ -49,7 +49,7 @@ public class Laptop {
     private String ves;
 
     public void fullmodel(){
-        System.out.println("Название:"+name+". Память:"+ozu+". Цвет:"+color+". Вес:"+ves);
+        System.out.println("Название:"+name+". Память:"+ozu+" GB Ram. Цвет:"+color+". Вес:"+ves);
 
         if(ozu<36){
             System.out.println("Слабая память для современных игр");
