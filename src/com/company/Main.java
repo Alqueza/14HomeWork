@@ -11,7 +11,6 @@ public class Main {
         laptop1.fullmodel();
         Ryba losos = new Ryba();
         losos.setName("Лосось");
-        System.out.println(losos.getName());
         losos.ryby();
         Popug kesha = new Popug();
         kesha.setName("Kesha");
