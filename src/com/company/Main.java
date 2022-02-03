@@ -1,11 +1,18 @@
 package com.company;
 public class Main {
     public static void main(String[] args) {
+        Laptop laptop1 = new Laptop();
+        laptop1.setName("Dell Inspiron 3310");
+        laptop1.setProcessor("Amd Ryzen 3");
+        laptop1.setColor("Classic Black");
+        laptop1.setVes("3 kg");
+        laptop1.setOzu(36);
+
+        laptop1.fullmodel();
         Ryba losos = new Ryba();
         losos.setName("Лосось");
         System.out.println(losos.getName());
         losos.ryby();
-
         Popug kesha = new Popug();
         kesha.setName("Kesha");
         System.out.println(kesha.getName());
@@ -27,4 +34,4 @@ public class Main {
         System.out.println("Пол: "+ackjol.getPol());
         ackjol.dogs();
     }
-    }
+}

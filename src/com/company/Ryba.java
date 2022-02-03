@@ -1,3 +1,4 @@
+
 package com.company;
 
 public class Ryba {
@@ -10,7 +11,8 @@ public class Ryba {
     }
 
     private String name;
-     public void ryby(){
-         System.out.println("Балык "+name+" сууда сузуп жатат.");
-     }
+
+    public void ryby() {
+        System.out.println("Балык " + name + " сууда сузуп жатат.");
+    }
 }
