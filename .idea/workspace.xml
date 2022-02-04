@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f6e6f0e6-223c-4c51-b8d8-64490868e282" name="Changes" comment="" />
+    <list default="true" id="f6e6f0e6-223c-4c51-b8d8-64490868e282" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/company/Curs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Cat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Laptop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Popug.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Ryba.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,6 +54,8 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="project.scopes" />
   </component>
   <component name="RunManager">
@@ -82,7 +94,9 @@
       <workItem from="1643804928825" duration="6000" />
       <workItem from="1643805203646" duration="4657000" />
       <workItem from="1643884843473" duration="45000" />
-      <workItem from="1643888523091" duration="6187000" />
+      <workItem from="1643888523091" duration="6444000" />
+      <workItem from="1643896962074" duration="310000" />
+      <workItem from="1643976985593" duration="5285000" />
     </task>
     <task id="LOCAL-00001" summary="Laptop">
       <created>1643722968187</created>
@@ -161,7 +175,21 @@
       <option name="project" value="LOCAL" />
       <updated>1643895302756</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="13 Home work + practic works">
+      <created>1643895450387</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1643895450387</updated>
+    </task>
+    <task id="LOCAL-00013" summary="13 Home work + practic works">
+      <created>1643895612628</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1643895612628</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
